@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/Users/josep/PycharmProjects/backtesting/backtestingCpp/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DH5_BUILT_AS_DYNAMIC_LIB -DbacktestingCpp_EXPORTS @CMakeFiles/backtestingCpp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\backtestingCpp.dir\\Database.cpp.obj -c C:\\Users\\josep\\PycharmProjects\\backtesting\\backtestingCpp\\Database.cpp",
+  "file": "C:/Users/josep/PycharmProjects/backtesting/backtestingCpp/Database.cpp"
+},
+{
+  "directory": "C:/Users/josep/PycharmProjects/backtesting/backtestingCpp/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DH5_BUILT_AS_DYNAMIC_LIB -DbacktestingCpp_EXPORTS @CMakeFiles/backtestingCpp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\backtestingCpp.dir\\Utils.cpp.obj -c C:\\Users\\josep\\PycharmProjects\\backtesting\\backtestingCpp\\Utils.cpp",
+  "file": "C:/Users/josep/PycharmProjects/backtesting/backtestingCpp/Utils.cpp"
+},
+{
+  "directory": "C:/Users/josep/PycharmProjects/backtesting/backtestingCpp/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DH5_BUILT_AS_DYNAMIC_LIB -DbacktestingCpp_EXPORTS @CMakeFiles/backtestingCpp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\backtestingCpp.dir\\strategies\\Sma.cpp.obj -c C:\\Users\\josep\\PycharmProjects\\backtesting\\backtestingCpp\\strategies\\Sma.cpp",
+  "file": "C:/Users/josep/PycharmProjects/backtesting/backtestingCpp/strategies/Sma.cpp"
+},
+{
+  "directory": "C:/Users/josep/PycharmProjects/backtesting/backtestingCpp/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DH5_BUILT_AS_DYNAMIC_LIB -DbacktestingCpp_EXPORTS @CMakeFiles/backtestingCpp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\backtestingCpp.dir\\strategies\\Psar.cpp.obj -c C:\\Users\\josep\\PycharmProjects\\backtesting\\backtestingCpp\\strategies\\Psar.cpp",
+  "file": "C:/Users/josep/PycharmProjects/backtesting/backtestingCpp/strategies/Psar.cpp"
+}
+]
