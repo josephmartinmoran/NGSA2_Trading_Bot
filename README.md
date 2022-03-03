@@ -5,4 +5,4 @@ This is strictly for educational purposes. Have fun
 
 
 Donations Appreciated 
-ETH 0x6B3945269CA59F7d65de03E7fbcbcF7570e703fD
+ERC20 0x34B7A17E1d3D17aF29BEA2d103b35f88B8C6a545
